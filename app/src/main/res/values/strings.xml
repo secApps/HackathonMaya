@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HackathonMaya</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="malefemale">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="usertype">
+        <item>user</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_feedback">Feedback</string>
+
+</resources>
